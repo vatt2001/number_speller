@@ -1,4 +1,4 @@
-name := "numerator"
+name := "NumberSpeller"
 
 version := "1.0"
 
